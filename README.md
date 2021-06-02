@@ -14,7 +14,7 @@
 <br/>
 
 <p align="center">
-	<a href="lucaslssantos99@gmail.com">
+	<a href="mailto: lucaslssantos99@gmail.com">
 		<img width="30" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png">
   	<a/>	
   	<a href="https://www.linkedin.com/in/lucas-leme-santos/">
