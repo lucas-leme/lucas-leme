@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**lucas-leme/lucas-leme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+	<h1 align="center"> Lucas Leme Santos <h1/>
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+	<p>	    Hi there! 👋
+		<br>I'm Lucas Leme Santos
+		<br>an Computer Engineering Student at USP, 
+		<br>AI and Quant Enthusiast
+	</p>
+<div/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<p align="center">
+	<a href="lucaslssantos99@gmail.com">
+		<img width="30" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png">
+  	<a/>	
+  	<a href="https://www.linkedin.com/in/lucas-leme-santos/">
+  		<img width="30" src="https://image.flaticon.com/icons/png/512/174/174857.png">
+  	<a/>
+</p>
+
+<p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=lucas-leme">
+</p>
