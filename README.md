@@ -23,6 +23,5 @@
 </p>
 
 <p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=lucas-leme">
   <img width="500" src="https://github.com/lucas-leme/github-stats-transparent/blob/output/generated/overview.svg">
 </p>
