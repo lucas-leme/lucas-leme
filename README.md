@@ -6,7 +6,7 @@
 <div align="center">
 	<p>	    Hi there! 👋
 		<br>I'm Lucas Leme Santos
-		<br>an Computer Engineer, 
+		<br>a Computer Engineer, 
 		<br>AI and Quant Enthusiast
 	</p>
 <div/>
